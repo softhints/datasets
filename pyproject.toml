@@ -25,6 +25,6 @@ markers = [
     "unit: unit test",
     "integration: integration test",
 ]
-toml
+
 [tool.poetry]
 package-mode = false
